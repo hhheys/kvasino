@@ -1,0 +1,25 @@
+{
+  "295505464420990986": [
+    {
+      "open_date": "2023-08-28 10:26:29.753292",
+      "close_date": "2023-08-28 10:26:40.064026",
+      "max_players": 4,
+      "table_type": 0,
+      "is_close_inactive": false
+    },
+    {
+      "open_date": "2023-08-28 10:33:32.970548",
+      "close_date": "2023-08-28 10:33:43.957007",
+      "max_players": 2,
+      "table_type": 1,
+      "is_close_inactive": false
+    },
+    {
+      "open_date": "2023-08-28 10:33:57.110671",
+      "close_date": "2023-08-28 10:34:37.563171",
+      "max_players": 2,
+      "table_type": 1,
+      "is_close_inactive": true
+    }
+  ]
+}

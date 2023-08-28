@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "croupier": null,
+      "current_players": 0,
+      "max_players": 8
+    },
+    {
+      "croupier": 295505464420990986,
+      "current_players": 0,
+      "max_players": 8
+    }
+  ],
+  [
+    {
+      "croupier": null,
+      "current_players": 0,
+      "max_players": 6,
+      "blinds": "8/16"
+    },
+    {
+      "croupier": null,
+      "current_players": 0,
+      "max_players": 6,
+      "blinds": "4/8"
+    }
+  ],
+  [
+    {
+      "croupier": null,
+      "current_players": 0,
+      "max_players": 4
+    }
+  ]
+]
